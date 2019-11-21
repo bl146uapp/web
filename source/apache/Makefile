@@ -1,0 +1,2 @@
+up:
+	echo "Apache UP"
